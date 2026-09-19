@@ -1,0 +1,26 @@
+{
+  "appName": "PROMASTER",
+  "packageName": "com.example.promaster",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "releaseType": "Direct APK",
+  "platform": "Android",
+  "minSdkVersion": 24,
+  "minAndroidVersion": "Android 7.0 (Nougat) or higher",
+  "targetSdkVersion": 36,
+  "releaseDate": "September 19, 2026",
+  "architecture": "Universal (arm64-v8a, armeabi-v7a, x86_64)",
+  "apkSizeFormatted": "16.5 MB",
+  "apkSizeBytes": 17261815,
+  "apkFileName": "PROMASTER-v1.0.apk",
+  "sha256": "Verified by Android APK Signature Scheme v2",
+  "githubRepo": "promaster",
+  "features": [
+    "AI Friend & Conversational Coach (Gemini + Groq)",
+    "Real-Time Voice Input & Natural TTS Feedback",
+    "Instant Grammar Correction & Explanations",
+    "Structured 30-Day Adaptive Curriculum",
+    "Offline Practice Engine & Safe In-App Automation",
+    "Zero Telemetry, Zero Ads, Secure Firebase Auth"
+  ]
+}

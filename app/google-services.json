@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161600535255",
+    "project_id": "promaster-ai-core",
+    "storage_bucket": "promaster-ai-core.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161600535255:android:4f2474cf5fb2a92ae28e92",
+        "android_client_info": {
+          "package_name": "com.company.promaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSiEiQjIYX7mf3Z0RD7ZcJJNlk2WOckIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161600535255:android:4f2474cf5fb2a92ae28e92",
+        "android_client_info": {
+          "package_name": "com.example.promaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSiEiQjIYX7mf3Z0RD7ZcJJNlk2WOckIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
