@@ -117,15 +117,20 @@ body {
   gap: 12px;
 }
 
-.logo-badge {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.brand-logo-img {
   width: 40px;
   height: 40px;
-  border-radius: var(--radius-sm);
-  background: rgba(99, 102, 241, 0.12);
-  border: 1px solid rgba(99, 102, 241, 0.3);
+  border-radius: 10px;
+  object-fit: cover;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4), 0 0 15px rgba(99, 102, 241, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.mockup-logo-mini {
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+  object-fit: cover;
 }
 
 .logo-title {
