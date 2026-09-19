@@ -10,6 +10,6 @@
   "targetSdkVersion": 36,
   "releaseDate": "2026-09-19",
   "architecture": "Universal (arm64-v8a, armeabi-v7a, x86_64)",
-  "apkSizeFormatted": "16.5 MB",
-  "apkSizeBytes": 17261815
+  "apkSizeFormatted": "17.5 MB",
+  "apkSizeBytes": 17495268
 }
