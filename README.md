@@ -2,6 +2,12 @@
 
 PROMASTER is a comprehensive, production-grade Android application and FastAPI gateway designed to take learners to conversational fluency in 30 days through structured pedagogical content, an upbeat AI companion ("bro" persona), real-time speech recognition and synthesis, and safe Android automation.
 
+[![Direct APK Download](https://img.shields.io/badge/Download_APK-PROMASTER_v1.0-6366F1?style=for-the-badge&logo=android&logoColor=white)](https://github.com/MANI2389/promaster/releases/latest/download/PROMASTER-v1.0.apk)
+[![Website Portal](https://img.shields.io/badge/Website-Live_Portal-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mani2389.github.io/promaster/)
+[![GitHub Release](https://img.shields.io/badge/GitHub_Release-v1.0-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANI2389/promaster/releases/tag/v1.0)
+
+> **📱 Direct APK Download Available**: No Google Play Store required. You can download the latest production APK directly from the [GitHub Release](https://github.com/MANI2389/promaster/releases/latest/download/PROMASTER-v1.0.apk) or visit the [Download Web Portal](https://mani2389.github.io/promaster/).
+
 ---
 
 ## 🏛️ System Architecture
