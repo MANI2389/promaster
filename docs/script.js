@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const btnViewSource = document.getElementById("btn-view-source");
 
   // Determine repository context from hostname/pathname if on GitHub Pages
-  let repoOwner = "manimass";
+  let repoOwner = "MANI2389";
   let repoName = "promaster";
 
   const host = window.location.hostname;

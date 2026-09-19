@@ -64,7 +64,7 @@ Copy-Item "app/build/outputs/apk/release/app-release.apk" -Destination "PROMASTE
    ```
 2. Navigate to your GitHub repository:
    ```text
-   https://github.com/<your-username>/promaster/releases/new
+   https://github.com/MANI2389/promaster/releases/new
    ```
 3. Create Tag: `v1.1`
 4. Release Title: `PROMASTER 1.1`
@@ -103,7 +103,7 @@ The download page in `/docs/` automatically resolves the latest release:
 3. Click **Save**.
 4. Your download website is live at:
    ```text
-   https://<your-username>.github.io/promaster/
+   https://MANI2389.github.io/promaster/
    ```
    Users can visit this link on their Android phones and tap **DOWNLOAD PROMASTER APK** directly.
 
